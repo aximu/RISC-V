@@ -10,3 +10,7 @@ zqh_riscv是一套开源SoC开发平台，核心部分包含处理器core、cach
 https://github.com/pulp-platform/fpnew
 FPnew - New Floating-Point Unit with Transprecision Capabilities  
 参数化浮点单元，支持标准RISC-V格式和操作以及转译格式，用SystemVerilog编写。允许为各种用例生成FP硬件单元。尽管 FPU 主要设计用于 RISC-V 处理器，但 FPU 或其子模块可以很容易地用于其他环境。我们的设计旨在符合IEEE 754-2008标准，并提供以下功能：
+
+
+PULP Platform https://github.com/pulp-platform  https://pulp-platform.org/index.html
+open hardware
