@@ -14,3 +14,8 @@ FPnew - New Floating-Point Unit with Transprecision Capabilities
 
 PULP Platform https://github.com/pulp-platform  https://pulp-platform.org/index.html
 open hardware
+
+
+*https://github.com/QmppmQ/riscv
+基于riscv指令集处理器ri5cy(https://github.com/openhwgroup/cv32e40p)，通过添加自定义卷积指令加速卷积运算。
+Artical:"Customized Instruction on RISC-V for Winograd-Based Convolution Acceleration"
