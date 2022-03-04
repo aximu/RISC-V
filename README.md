@@ -1,7 +1,5 @@
 # RISC-V
 
-### 介绍
-
 记录有意思的RISC-V开源项目
 
 ### RISC-V SOC
