@@ -18,12 +18,13 @@ FPnew - New Floating-Point Unit with Transprecision Capabilities
 
 ### 平台
 
-1.　PULP Platform
+1. PULP Platform
  https://github.com/pulp-platform  https://pulp-platform.org/index.html
 　open hardware
 
-### ISA　扩展
-１.　CONV23　卷积运算指令
+### ISA 扩展
+
+1. CONV23　卷积运算指令
 *https://github.com/QmppmQ/riscv
 基于riscv指令集处理器ri5cy(https://github.com/openhwgroup/cv32e40p)
 通过添加自定义卷积指令加速卷积运算。
